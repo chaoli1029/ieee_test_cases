@@ -43,7 +43,7 @@ injection shift factor, also a.k.a. power transfer distribution factor (PTDF), a
 
 ## Data_Load
 load (i.e., demand) at buses in periods <br />
-|N| by |T| matrix. element (n,t): load at bus n in period t <br />
+|N| by |T| matrix, element (n,t): load at bus n in period t <br />
 
 ## Data_Scen
 single-generator-failure (G-1) contingency scenarios <br />
