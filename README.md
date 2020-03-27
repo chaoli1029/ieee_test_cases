@@ -1,8 +1,6 @@
 # ieee_test_cases
 Classic IEEE test cases for research of reliable unit commitment problem. <br />
-
-# data structure
-There are 3 test cases: 73-bus system, 118-bus system, and Polish system. For each test case, there are data files as follows.
+There are 3 test cases: 73-bus system, 118-bus system, and Polish system. For each test case, there are data files as follows. <br />
 
 ## Data_Size
 size of the transmission network <br />
